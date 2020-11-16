@@ -2,7 +2,7 @@ var x = 0;
 
 
    function nextMeme(){  
-       x++;
+      
     var meme = "patMeme.jpg";
 
     switch(x){
@@ -26,5 +26,5 @@ var x = 0;
     if (x == 4){
         x = 0;
     }
-
+ x++;
 }

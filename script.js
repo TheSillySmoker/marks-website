@@ -1,9 +1,9 @@
-var x = 0;
+var x = 3;
 
 
    function nextMeme(){  
       
-    var meme = "patMeme.jpg";
+    var meme;
 
     switch(x){
         case 0:
